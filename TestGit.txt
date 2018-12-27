@@ -1,1 +1,3 @@
 Dodana pierwsza linia tekstu.
+
+Dodana druga linia tekstu.
