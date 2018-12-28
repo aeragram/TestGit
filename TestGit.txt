@@ -5,3 +5,6 @@ Dodana druga linia tekstu.
 Dodana trzecia linia tekstu.
 
 Zmiana czwartej linii przez TestGit
+
+Piata linia dodane przez TestGitNew
+
