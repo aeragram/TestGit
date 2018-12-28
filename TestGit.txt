@@ -8,3 +8,4 @@ Zmiana czwartej linii przez TestGit
 
 Nowa ga³¹Ÿ projektu linia jeden
 
+Piata linia dodane przez TestGitNew
