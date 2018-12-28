@@ -4,5 +4,4 @@ Dodana druga linia tekstu.
 
 Dodana trzecia linia tekstu.
 
-Dodana czwarta linia tekstu przez TestGitNew.
-
+Zmiana czwartej linii przez TestGit
